@@ -165,7 +165,7 @@ namespace Instrucoes
                 w.WriteLine("Line 1");
                 w.WriteLine("Line 2");
                 w.WriteLine("Line 3");
-            }
+            }//Ele elimina automaticamente da memória nesse caso por causa do using
         }
     }
 }
